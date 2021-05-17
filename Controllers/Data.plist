@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Q</key>
+		<string>What is use of symobol _</string>
+		<key>A</key>
+		<string>means function parameter has no name</string>
+	</dict>
+	<dict>
+		<key>Q</key>
+		<string>class, structure, enumeration in swift</string>
+		<key>A</key>
+		<string>These are one category of which we can create Instance</string>
+	</dict>
+	<dict>
+		<key>Q</key>
+		<string>Protocol</string>
+		<key>A</key>
+		<string>its different from class , struct, enumation and just user for blueprint purpose</string>
+	</dict>
+	<dict>
+		<key>Q</key>
+		<string>What is Enum</string>
+		<key>A</key>
+		<string>Enum is set of named values</string>
+	</dict>
+	<dict>
+		<key>Q</key>
+		<string>What is Struct</string>
+		<key>A</key>
+		<string>Struct is data Type</string>
+	</dict>
+	<dict>
+		<key>Q</key>
+		<string>What is Class</string>
+		<key>A</key>
+		<string>Class is blueprint for creating objects</string>
+	</dict>
+</array>
+</plist>
